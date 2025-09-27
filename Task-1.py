@@ -1,6 +1,0 @@
-A1 = int(input("Enter first number:- "))
-A2 = int(input("Enter second number:- "))
-print("Addition: ", A1 + A2)
-print("Subtraction: ", A1 - A2)
-print("Multiplication: ", A1 * A2)
-print("Division: ", A1 / A2)
