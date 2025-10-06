@@ -1,4 +1,4 @@
-This is a compilation of the assignment which contains Python program for the Module 2, covering two separate tasks.
+This is a completion of the assignment which contains Python program for the Module 2, covering two separate tasks.
 
 *Note:- I have tested my programs in the online python complier and in vs code and works perfectly.
 
